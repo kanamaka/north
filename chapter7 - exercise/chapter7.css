@@ -16,3 +16,27 @@
   background-size: cover;
   background-position: bottom;
 }
+
+.service1 {
+ margin-top: 50px;
+ margin-bottom: 30px;
+}
+
+.service2 {
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+.service3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.service4 {
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+
+.geta {
+  margin-top: 80px;
+}
