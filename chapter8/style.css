@@ -36,14 +36,14 @@ header .heading {
   width: 100%;
   height: 300px;
   background-image: url(img/mv.jpg);
-  background-size: cover; 
-  background-position: center;  
+  background-size: cover;
+  background-position: center;
 }
 
 .main-visual-content {
   width: 40%;
   height: 300px;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   text-align: center;
   padding-top: 105px;
 }
@@ -53,22 +53,21 @@ header .heading {
 }
 
 .main-visual-name {
- margin-top: 30px;
- color: #fff
- ;
+  margin-top: 30px;
+  color: #fff;
 }
 
 main {
-  width: 800px; 
-  display: flex; 
-  justify-content: center; 
-  margin: 0 auto; 
-  padding: 70px 0; 
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 70px 0;
 }
 
 .blog {
   width: 540px;
-  margin-right: 30px; 
+  margin-right: 30px;
 }
 
 .blog-box {
@@ -80,7 +79,6 @@ main {
   text-align: center;
   line-height: 0.6;
 }
-
 
 .blog-item {
   padding-bottom: 20px;
@@ -107,7 +105,6 @@ main {
 .blog-text-heading {
   padding-bottom: 15px;
 }
-
 
 .category {
   display: inline-block;
@@ -136,27 +133,27 @@ main {
 .categorise-text {
   padding-bottom: 5px;
   border-bottom: 1px solid white;
-  margin-bottom: 5px; 
+  margin-bottom: 5px;
 }
 
 .popular-text:last-child,
-.categorise-text:last-child{
+.categorise-text:last-child {
   margin: 0;
   padding: 0;
   border: none;
 }
 
 .instgram-box {
- display: flex;
- flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .instgram-box {
- width: 110px;
- padding-top: 110px;
- background-size: cover;
- background-position: center;
- margin-bottom: 10px;
+  width: 110px;
+  padding-top: 110px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 10px;
 }
 
 .instagram-box:nth-child(odd) {
@@ -204,8 +201,8 @@ footer {
   width: 30px;
   height: 30px;
   margin: 0.5px;
-  color:white;
-  background-color:#acabab;
+  color: white;
+  background-color: #acabab;
   border-radius: 3px;
   line-height: 30px;
 }
